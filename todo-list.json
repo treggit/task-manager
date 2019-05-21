@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "JB internship",
+    "details": "Create a simple java utility to manage tasks",
+    "done": true,
+    "deadline": "May 21, 2019, 12:00:00 AM"
+  },
+  {
+    "id": 2,
+    "title": "Visa",
+    "details": "Prepare documents for visa to Poland",
+    "done": true,
+    "deadline": "May 20, 2019, 12:00:00 AM"
+  },
+  {
+    "id": 4,
+    "title": "self-development...",
+    "done": false
+  },
+  {
+    "id": 5,
+    "title": "to relax",
+    "done": false,
+    "deadline": "May 15, 2019, 12:00:00 AM"
+  }
+]
